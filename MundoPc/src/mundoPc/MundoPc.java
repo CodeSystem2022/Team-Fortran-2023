@@ -17,5 +17,9 @@ public class MundoPc {
         Teclado tecladoGamer = new Teclado("Bluetooth", "Gamer");
         Raton ratonGamer = new Raton("Bluetooth", "Gamer");
         Computadora computadoraGamer = new Computadora("Computadora Gamer", monitorGamer, tecladoGamer, ratonGamer);
+        Orden orden1 = new Orden();
+        orden1.agregarComputadora(computadoraHP);
+        orden1.agregarComputadora(computadoraGamer);
+        orden1.mostrarOrden();
     }
 }

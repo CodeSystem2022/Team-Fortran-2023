@@ -15,23 +15,6 @@
 
 ---
 
-### :dizzy: Scrum Master
-
-| Nombre | Semana de Scrum Master |
-|:---:|:---:|
-| Gabriel Hidalgo  | 1ra semana |
-| Vizcaino Gisela Carina | 2da semana  |
-| Ruiz Paola Del Valle | 3re semana  |
-|  |  4ta semana  |
-|  |  5ta semana  |
-|  |  6ta semana  |
-|  |  7ma semana  |
-|  |  8va semana  |
-|  |  9na semana  |
-|  |  10ma semana  |
-
----
-
 ### :collision: Integrantes de Team Fortran
 
 - :star2: Calisaya Fernando Daniel
@@ -44,5 +27,27 @@
 - :star2: Vizcaino Lucas Ezequiel
 - :star2: Vizcaino Gisela Carina
 
+--- 
+
+### :raised_hands: Metodología de trabajo
+
+En este proyecto, utilizamos una metodología híbrida que combina SCRUM y KANBAN. SCRUM se enfoca en entregas iterativas en ciclos cortos llamados "sprints", mientras que KANBAN se basa en tableros visuales para gestionar el flujo de trabajo. Al combinar estos dos enfoques, podemos trabajar de manera más eficiente y productiva, entregando resultados de alta calidad y manteniendo un alto nivel de colaboración y transparencia.
+
+---
+
+### :dizzy: Scrum Master
+
+| Nombre | Semana de Scrum Master | Proyecto | Lenguaje de programación |
+|:---:|:---:|:---:|:---:|
+| Gabriel Hidalgo  | 1ra semana | Mundo PC | Java |
+| Vizcaino Gisela Carina | 2da semana  | | |
+| Ruiz Paola Del Valle | 3re semana  | Catálogo de películas | Python |
+|  |  4ta semana  | | |
+|  |  5ta semana  | | |
+|  |  6ta semana  | | |
+|  |  7ma semana  | | |
+|  |  8va semana  | | |
+|  |  9na semana  | | |
+|  |  10ma semana  | | |
 
 

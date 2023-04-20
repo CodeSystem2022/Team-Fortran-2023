@@ -42,7 +42,7 @@ En este proyecto, utilizamos una metodología híbrida que combina SCRUM y KANBA
 | Gabriel Hidalgo  | 1ra semana | Mundo PC | Java |
 | Vizcaino Gisela Carina | 2da semana  | | |
 | Ruiz Paola Del Valle | 3re semana  | Catálogo de películas | Python |
-|  |  4ta semana  | | |
+|  Vizcaino Lucas |  4ta semana  | | |
 |  |  5ta semana  | | |
 |  |  6ta semana  | | |
 |  |  7ma semana  | | |

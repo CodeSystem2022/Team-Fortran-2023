@@ -46,7 +46,7 @@ En este proyecto, utilizamos una metodología híbrida que combina SCRUM y KANBA
 |  |  5ta semana  | | |
 |  |  6ta semana  | | |
 |  |  7ma semana  | | |
-|  |  8va semana  | | |
+|  Matias Nicolas Peña|  8va semana  | | |
 |  |  9na semana  | | |
 |  |  10ma semana  | | |
 

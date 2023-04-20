@@ -17,5 +17,24 @@ public class MundoPc {
         Teclado tecladoGamer = new Teclado("Bluetooth", "Gamer");
         Raton ratonGamer = new Raton("Bluetooth", "Gamer");
         Computadora computadoraGamer = new Computadora("Computadora Gamer", monitorGamer, tecladoGamer, ratonGamer);
+<<<<<<< Updated upstream
+=======
+        
+        //Inicializamos el arreglo vacio
+        Orden orden1 = new Orden();
+        Orden Orden2 = new Orden();
+        
+        //Agregamos los Objetos
+        orden1.agregarComputadora(computadoraHP);
+        orden1.agregarComputadora(computadoraGamer);
+        
+        //Creamos otra Computadora y Orden
+        Computadora computadorasVarias = new Computadora("Computadora de diferentes marcas", monitorHP, tecladoGamer, ratonHP);
+        Orden2.agregarComputadora(computadorasVarias);
+        
+        //Mostramos la orden
+        orden1.mostrarOrden();
+        Orden2.mostrarOrden();
+>>>>>>> Stashed changes
     }
 }

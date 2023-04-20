@@ -17,8 +17,7 @@ public class MundoPc {
         Teclado tecladoGamer = new Teclado("Bluetooth", "Gamer");
         Raton ratonGamer = new Raton("Bluetooth", "Gamer");
         Computadora computadoraGamer = new Computadora("Computadora Gamer", monitorGamer, tecladoGamer, ratonGamer);
-<<<<<<< Updated upstream
-=======
+
         
         //Inicializamos el arreglo vacio
         Orden orden1 = new Orden();
@@ -35,6 +34,6 @@ public class MundoPc {
         //Mostramos la orden
         orden1.mostrarOrden();
         Orden2.mostrarOrden();
->>>>>>> Stashed changes
+
     }
 }

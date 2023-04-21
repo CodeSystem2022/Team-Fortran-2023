@@ -40,7 +40,7 @@ En este proyecto, utilizamos una metodología híbrida que combina SCRUM y KANBA
 | Nombre | Semana de Scrum Master | Proyecto | Lenguaje de programación |
 |:---:|:---:|:---:|:---:|
 | Gabriel Hidalgo  | 1ra semana | Mundo PC | Java |
-| Vizcaino Gisela Carina | 2da semana  | Arreglos | JavaScript |
+| Vizcaino Gisela Carina | 2da semana  | Manejo de Archivos | Python |
 | Ruiz Paola Del Valle | 3re semana  | Catálogo de películas | Python |
 |  Vizcaino Lucas |  4ta semana  | | |
 |  |  5ta semana  | | |

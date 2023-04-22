@@ -1,0 +1,72 @@
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><help_text>Space for diagram notes</help_text><element><id>UMLClass</id><coordinates><x>80</x><y>50</y><w>210</w><h>210</h></coordinates><panel_attributes>&lt;&lt;Computadora&gt;&gt;
+
+--
+-idComputadora: int
+-nombre: String
+-monitor:Monitor
+-teclado:Teclado
+-raton:Raton
+--
+
++_str_()
++(agregar los metodos set/get de cada atributo)
+--
+Responsibilities
+-Crear  objetos de tipo computadora</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>430</x><y>40</y><w>210</w><h>190</h></coordinates><panel_attributes>&lt;&lt;Orden&gt;&gt;
+
+--
+-+contadorOrdenes:int &lt;&lt;static&gt;&gt;
+-idOrden: int
+-computadoras: List&lt;computadora&gt;
+--
++agregarComputadora(computadora)
++_str_()
++(Agregar los metodos get/set de cada atributo)
+
+--
+Responsibilities
+-Almacenar en una lista los objetos de tipo computadora</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>420</x><y>250</y><w>210</w><h>130</h></coordinates><panel_attributes>&lt;&lt;DisposiitivoEntrada&gt;&gt;
+--
+# tipoEntrada:String
+#marca:String
+--
++_str_()
++Agregar los metodos get/set para los atributos
+--
+Responsibilities
+-Crear objetos de tipo Dispositvo Entrada</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>80</x><y>380</y><w>210</w><h>190</h></coordinates><panel_attributes>&lt;&lt;Monitor&gt;&gt;
+
+--
++contadorMonit {composite}
+-idMonitor: int
+-marca: String
+-tamaño:String
+--
++_str_()
++(Agregar los metodos get/set de cada atributo)
+--
+Responsibilities
+- Crear cada objeto de tipo monitor</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>340</x><y>440</y><w>210</w><h>170</h></coordinates><panel_attributes>&lt;&lt;Raton&gt;&gt;
+--
++contadorRatones:int &lt;static&gt;
+-idRaton: int
+_
+--
++_str_()
+--
+Responsibilities
+- Crear objeto tipo Raton</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>580</x><y>450</y><w>210</w><h>160</h></coordinates><panel_attributes>&lt;&lt;Teclado&gt;&gt;
+--
++contadorTeclado:int &lt;static&gt;
+-idTecldo: int
+_
+--
++_str_()
+--
+Responsibilities
+-Crear objeto tipo Raton</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>150</x><y>250</y><w>30</w><h>150</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;130</additional_attributes></element><element><id>Relation</id><coordinates><x>400</x><y>370</y><w>160</w><h>90</h></coordinates><panel_attributes>lt=&lt;&lt;-
+</panel_attributes><additional_attributes>140;10;140;50;10;50;10;70</additional_attributes></element><element><id>Relation</id><coordinates><x>530</x><y>370</y><w>180</w><h>100</h></coordinates><panel_attributes>lt=&lt;&lt;-
+</panel_attributes><additional_attributes>10;10;10;50;160;50;160;80</additional_attributes></element><element><id>Relation</id><coordinates><x>150</x><y>290</y><w>180</w><h>370</h></coordinates><panel_attributes></panel_attributes><additional_attributes>10;10;160;10;160;350</additional_attributes></element><element><id>Relation</id><coordinates><x>300</x><y>620</y><w>430</w><h>40</h></coordinates><panel_attributes></panel_attributes><additional_attributes>10;20;410;20</additional_attributes></element><element><id>Relation</id><coordinates><x>430</x><y>600</y><w>30</w><h>60</h></coordinates><panel_attributes></panel_attributes><additional_attributes>10;10;10;40</additional_attributes></element><element><id>Relation</id><coordinates><x>700</x><y>600</y><w>30</w><h>60</h></coordinates><panel_attributes></panel_attributes><additional_attributes>10;10;10;40</additional_attributes></element><element><id>UMLPackage</id><coordinates><x>20</x><y>0</y><w>870</w><h>660</h></coordinates><panel_attributes>MundoPC
+--
+bg=orange</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>280</x><y>120</y><w>140</w><h>40</h></coordinates><panel_attributes>lt=.
+</panel_attributes><additional_attributes>10;20;120;20</additional_attributes></element><element><id>UMLSpecialState</id><coordinates><x>400</x><y>130</y><w>30</w><h>20</h></coordinates><panel_attributes>type=decision</panel_attributes><additional_attributes></additional_attributes></element></diagram>

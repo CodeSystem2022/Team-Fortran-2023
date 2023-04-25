@@ -46,7 +46,7 @@ En este proyecto, utilizamos una metodología híbrida que combina SCRUM y KANBA
 | Morales Castro Danisa |  5ta semana  | | |
 |  |  6ta semana  | | |
 |  |  7ma semana  | | |
-|  Matias Nicolas Peña|  8va semana  | | |
+| Matias Nicolas Peña|  8va semana  | | |
 | Calisaya Fernando |  9na semana  | | |
 |  |  10ma semana  | | |
 

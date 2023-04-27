@@ -44,7 +44,7 @@ En este proyecto, utilizamos una metodología híbrida que combina SCRUM y KANBA
 | Ruiz Paola Del Valle | 3er semana  | Catálogo de películas | Python |
 | Vizcaino Lucas |  4ta semana  | Objetos | Java |
 | Morales Castro Danisa |  5ta semana  | | |
-|  |  6ta semana  | | |
+| Morales Gaston Abel |  6ta semana  | | |
 |  |  7ma semana  | | |
 |  Matias Nicolas Peña|  8va semana  | | |
 | Calisaya Fernando |  9na semana  | | |

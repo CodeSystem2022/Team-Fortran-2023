@@ -45,9 +45,9 @@ En este proyecto, utilizamos una metodología híbrida que combina SCRUM y KANBA
 | Vizcaino Lucas |  4ta semana  | Objetos | JavaScrip |
 | Morales Castro Danisa |  5ta semana  | | |
 | Morales Gaston Abel |  6ta semana  | | |
-|  |  7ma semana  | | |
-|  Matias Nicolas Peña|  8va semana  | | |
-| Calisaya Fernando |  9na semana  | | |
-|  |  10ma semana  | | |
+|  Matias Nicolas Peña |  7ma semana  | | |
+|  Calisaya Fernando |  8va semana  | | |
+| Gabriel Hidalgo |  9na semana  | | |
+| Vizcaino Gisela Carina |  10ma semana  | | |
 
 

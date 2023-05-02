@@ -32,16 +32,3 @@ for(propiedad in persona){
     console.log(persona[propiedad])
 }
 
-//Formas de imprimir un objeto
-console.log('Forma de imprimir un objeto: 1');
-console.log(persona.nombre + ', '+ persona.apellido);
-console.log('Forma de imprimir un objeto: 2');
-for(nombrePropiedad in persona){
-    console.log(persona[nombrePropiedad]);
-}
-console.log('Forma de imprimir un objeto: 3');
-let personaArray = Object.values(persona);
-console.log(personaArray);
-console.log('Forma de imprimir un objeto: 4');
-let personaString = JSON.stringify(persona);
-console.log(personaString);

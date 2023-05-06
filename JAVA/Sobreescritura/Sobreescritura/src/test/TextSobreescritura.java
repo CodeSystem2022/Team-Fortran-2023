@@ -11,13 +11,14 @@ public class TextSobreescritura {
         imprimir(empleado1);
         //System.out.println("empleado1 = " + empleado1.obtenerDetalles());
         
-        Gerente gerente1 = new Gerente("Jose", 5000, "Sistema");
-        imprimir(gerente1);
+        empleado1 = new Gerente("Jose", 5000, "Sistema");
+        imprimir(empleado1);
         //System.out.println("gerente =" + gerente1.obtenerDetalles());
     }
     
     public static void imprimir(Empleado empleado){
-        System.out.println("empleado = " + empleado.obtenerDetalles());
+        String detalles = empleado.obtenerDetalles();
+        System.out.println("detalles = " + detalles);
     }
     
 }

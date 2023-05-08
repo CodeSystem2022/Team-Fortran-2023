@@ -31,11 +31,35 @@
 
 ### :raised_hands: Metodología de trabajo
 
-En este proyecto, utilizamos una metodología híbrida que combina SCRUM y KANBAN. SCRUM se enfoca en entregas iterativas en ciclos cortos llamados "sprints", mientras que KANBAN se basa en tableros visuales para gestionar el flujo de trabajo. Al combinar estos dos enfoques, podemos trabajar de manera más eficiente y productiva, entregando resultados de alta calidad y manteniendo un alto nivel de colaboración y transparencia.
+En este proyecto, hemos adoptado una metodología de trabajo híbrida que combina los principios de SCRUM y KANBAN para maximizar nuestra eficiencia y productividad. Nuestro equipo de nueve integrantes se organiza utilizando ramas de trabajo individuales.
+
+SCRUM
+-------
+
+Para adaptarnos a las entregas semanales de proyectos, hemos ajustado nuestra implementación de SCRUM para tener sprints más cortos y entregas más frecuentes. En lugar de ciclos de varias semanas, nuestros sprints tienen una duración de una semana y entregamos un proyecto diferente cada semana.
+
+Durante cada sprint, nos enfocamos en las tareas específicas necesarias para completar el proyecto de la semana. Utilizamos reuniones diarias de seguimiento para monitorear el progreso del equipo y asegurarnos de que estamos avanzando según lo planeado.
+
+Al final de cada sprint, hacemos una revisión del proyecto entregado, aprendemos de los aciertos y errores, y hacemos mejoras para el próximo sprint. Este enfoque iterativo y ágil nos permite adaptarnos rápidamente a los cambios y a los requisitos de cada proyecto, al mismo tiempo que garantizamos la entrega de productos de alta calidad.
+
+KANBAN
+-------
+
+Además de utilizar SCRUM, también incorporamos los principios de KANBAN en nuestro flujo de trabajo. Utilizamos tableros visuales para gestionar nuestras tareas y visualizar el flujo de trabajo de principio a fin. Cada miembro del equipo tiene su propia rama de trabajo, lo que nos permite trabajar de manera independiente en nuestras asignaciones individuales.
+
+Colaboración y transparencia
+-----------------------------
+
+Nuestra metodología de trabajo fomenta una colaboración estrecha entre los miembros del equipo. A través de reuniones regulares de seguimiento, revisamos el progreso, compartimos ideas y resolvemos cualquier obstáculo que pueda surgir. Mantenemos una comunicación abierta y transparente, lo que nos permite mantener a todos los integrantes del equipo informados sobre el estado actual del proyecto y las metas a alcanzar.
+
+Con esta metodología híbrida, estamos logrando una mayor eficiencia y productividad en nuestro trabajo, al tiempo que aseguramos una entrega de alta calidad en cada iteración.
 
 ---
 
 ### :dizzy: Scrum Master
+
+Este cuadro muestra la asignación de los miembros del equipo a la función de Scrum Master durante cada semana. Cada semana, un miembro diferente asume el rol de Scrum Master y lidera el equipo en la entrega de un proyecto específico. Se indica el nombre del miembro (con enlace a su perfil de GitHub), la semana en la que se desempeña como Scrum Master (con enlace a su proyecto), el proyecto correspondiente (con enlace a su wiki), el lenguaje de programación utilizado y una columna de observaciones que detalla si alguien no participa en alguna semana y quién lo reemplaza, con el fin de transparentar los trabajos.
+
 
 | Nombre | Semana de Scrum Master | Proyecto(Wiki) | Lenguaje de programación | Observación |
 |:---:|:---:|:---:|:---:|:---:|

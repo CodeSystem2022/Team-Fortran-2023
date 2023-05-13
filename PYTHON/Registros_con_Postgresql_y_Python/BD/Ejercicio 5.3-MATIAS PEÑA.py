@@ -10,8 +10,7 @@ try:
               cursor.execute(sentencia,(id_persona,)) # De esta manera ejecutamos la sentencia
               registros = cursor.fetchall() # recupera todos los registros
               for registro in registros:
-
-              print(registro)
+                print(registro)
 except Exception as e:
     print(f'Ocurrio un error: {e}')
 finally:

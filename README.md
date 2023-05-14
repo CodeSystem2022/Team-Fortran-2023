@@ -69,7 +69,7 @@ Este cuadro muestra la asignación de los miembros del equipo a la función de S
 | [Vizcaino Lucas Ezequiel](https://avatars.githubusercontent.com/u/112833803?s=64&v=4) |  [4ta semana](https://github.com/orgs/CodeSystem2022/projects/151)  | [Objetos](https://github.com/CodeSystem2022/Team-Fortran-2023/wiki/Objetos) | JavaScrip |  |
 | [Morales Castro Danisa](https://github.com/danisa-morales) |  [5ta semana](https://github.com/orgs/CodeSystem2022/projects/282)  | [Sobreescritura](https://github.com/CodeSystem2022/Team-Fortran-2023/wiki/Sobreescritura) | Java | 
 | [Morales Gastón](https://avatars.githubusercontent.com/u/100379618?s=64&v=4) |  6ta semana  | | |  |
-| [Peña Matías Nicolas](https://avatars.githubusercontent.com/u/112669826?s=64&v=4) |  7ma semana  | |Registros con Poatgresql |  |
+| [Peña Matías Nicolas](https://avatars.githubusercontent.com/u/112669826?s=64&v=4) |  7ma semana  | |Registros con Postgresql y Python |  |
 | [Calisaya Fernando Daniel](https://avatars.githubusercontent.com/u/76882655?s=64&v=4) |  8va semana  | | |  |
 | [Hidalgo Gabriel](https://github.com/HidoGG) |  9na semana  | | |  |
 | [Vizcaino Gisela Carina](https://avatars.githubusercontent.com/u/111472242?s=64&v=4) |  10ma semana  | | |  |

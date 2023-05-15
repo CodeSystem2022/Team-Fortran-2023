@@ -10,6 +10,9 @@ let persona= {
     edad:30,
     nombreCompleto: function(){ //método o función  en js
         return this.nombre+' '+this.apellido;
+    },
+    get nombre(){
+        return 'El nombre es:'+ this.nombre+' Edad:'+this.edad;
     }
 }
 
@@ -61,3 +64,5 @@ console.log(personaArray);
 console.log('Distintas formas de imprimir un objeto: forma 4');
 let personaString = JSON.stringify(persona);
 console.log(personaString);
+console.log('Comenzamos a utilizar el metodo get')
+console.log(persona.nombreEdad);

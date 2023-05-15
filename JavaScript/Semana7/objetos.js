@@ -7,13 +7,21 @@ let persona= {
     nombre:'Carlos',
     apellido:'Gil',
     email:'cgil@gmail.com',
-    edad:30,
+    edad:28,
+    ideoma:'es',
     nombreCompleto: function(){ //método o función  en js
         return this.nombre+' '+this.apellido;
     },
+    get lang(){
+        return this.ideoma.toUpperCase();//Convierte de miniscula a mayuscula
+     },
+     set lang(lang){
+        this.ideoma=this.lang.toUpperCase();
+     },
     get nombre(){
         return 'El nombre es:'+ this.nombre+' Edad:'+this.edad;
     }
+   
 }
 
 console.log(persona.nombre);
@@ -64,5 +72,9 @@ console.log(personaArray);
 console.log('Distintas formas de imprimir un objeto: forma 4');
 let personaString = JSON.stringify(persona);
 console.log(personaString);
-console.log('Comenzamos a utilizar el metodo get')
+console.log('Comenzamos a utilizar el metodo get');
 console.log(persona.nombreEdad);
+
+console.log('Comenzamos con el metodo get y set para ideoma');
+persona.lang = 'en';
+console.log(persona.lang);

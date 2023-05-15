@@ -66,3 +66,12 @@ let personaString = JSON.stringify(persona);
 console.log(personaString);
 console.log('Comenzamos a utilizar el metodo get')
 console.log(persona.nombreEdad);
+
+function Persona3(nombre = 'Luis ', apellido, email){ //Constructor
+    this.nombre = nombre; 
+    this.apellido = apellido;
+    this.email = email;
+}
+
+let padre = new Persona3('Leo', 'Lopez', 'lopez@gmail.com');
+console.log(padre);

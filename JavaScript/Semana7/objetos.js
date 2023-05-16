@@ -87,3 +87,23 @@ let miObjeto2 = {}; //Esta opción es breve y recomendada
 let miCadena1 = new String('Hola'); //Sintaxis formal
 //caso String 2
 let miCadena2 = 'Hola'; //Esta es la sintaxis simplificada y recomendada
+
+//caso con números 1
+let miNumero = new Number(1);//Es formal no recomendable
+//caso con números 2
+let muNumero = 1;//Sintaxis recomendada
+
+//caso boolean 1
+let miBoolean1 = new Boolean(false); //Formal
+//caso boolean 2
+let miBoolean2 = false;//Sintaxis recomendada
+
+//caso Arreglo 1
+let miArreglo1 = new Array();//Formal
+//caso Arreglo 2
+let miArreglo2 = [];
+
+//caso funcion 1
+let miFuncion1 = new function () { }; //Todo despues de new es considerado objeto
+//caso funcion 2
+let miFuncion2 = function () { }; //Notación simplificada y recomendada 

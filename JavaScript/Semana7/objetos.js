@@ -75,3 +75,15 @@ function Persona3(nombre = 'Luis ', apellido, email){ //Constructor
 
 let padre = new Persona3('Leo', 'Lopez', 'lopez@gmail.com');
 console.log(padre);
+
+//Diferentes formas de crear objetos
+
+//caso número 1
+let miObjeto = new Object(); //Esta es una opción formal
+//caso objeto 2
+let miObjeto2 = {}; //Esta opción es breve y recomendada
+
+//casi String 1
+let miCadena1 = new String('Hola'); //Sintaxis formal
+//caso String 2
+let miCadena2 = 'Hola'; //Esta es la sintaxis simplificada y recomendada

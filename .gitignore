@@ -800,3 +800,4 @@ nbdist/
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+PYTHON/Registros_con_Postgresql_y_Python/.idea/workspace.xml

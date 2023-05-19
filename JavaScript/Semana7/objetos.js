@@ -107,3 +107,20 @@ let miArreglo2 = [];
 let miFuncion1 = new function () { }; //Todo despues de new es considerado objeto
 //caso funcion 2
 let miFuncion2 = function () { }; //Notación simplificada y recomendada 
+
+// uso de call
+let persona4 = {
+    nombre: 'Juan',
+    apellido: 'Perez',
+    nombreCompleto2: function(titulo, telefono){
+        return titulo +': '+this.nombre+' '+this.apellido+' '+telefono;
+    }
+}
+
+let persona5 = {
+    nombre: 'Carlos',
+    apellido: 'Lara'
+}
+
+console.log(persona4.nombreCompleto2('Lic.',123456789));
+console.log(persona4.nombreCompleto2.call(persona5, 'Ing.', 987654321));

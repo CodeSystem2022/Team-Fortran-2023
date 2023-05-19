@@ -114,6 +114,7 @@ let persona4 = {
     apellido: 'Perez',
     nombreCompleto2: function(titulo, telefono){
         return titulo +': '+this.nombre+' '+this.apellido+' '+telefono;
+        //return this.nombre+' '+this.apellido;
     }
 }
 
@@ -124,3 +125,7 @@ let persona5 = {
 
 console.log(persona4.nombreCompleto2('Lic.',123456789));
 console.log(persona4.nombreCompleto2.call(persona5, 'Ing.', 987654321));
+
+// Metodo Apply
+let arreglo = ['Ing', '54962476472'];
+console.log(persona4.nombreCompleto2.apply(persona5, arreglo));

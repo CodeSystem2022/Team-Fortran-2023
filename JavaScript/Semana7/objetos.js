@@ -129,3 +129,26 @@ console.log(persona4.nombreCompleto2.call(persona5, 'Ing.', 987654321));
 // Metodo Apply
 let arreglo = ['Ing', '54962476472'];
 console.log(persona4.nombreCompleto2.apply(persona5, arreglo));
+
+// EJercicio 5.3 Agregar metodos al constructor del objeto
+//Matias Peña
+console.log('Distintas formas de imprimir un objeto: forma 4');
+let personaString = JSON.stringify(persona);
+console.log(personaString);
+console.log('Comenzamos a utilizar el metodo get')
+console.log(persona.nombreEdad);
+console.log('Comenzamos con el metodo get y set para idiomas');
+persona.lang = 'en';
+console.log(persona.lang);
+
+function Persona32(nombre = 'Luis ', apellido, email){ //Constructor
+    this.nombre = nombre; 
+    this.apellido = apellido;
+    this.email = email;
+}
+let papa = new Persona32('Leo', 'Alvarez','alvarez@gmail.com');
+papa.nombre = 'Luisito';
+console.log(papa); Persona3(nombre = 'Luis ', apellido='Lopez', email='lopez@gmail.com')
+
+let madre = new Persona32('Laura','Contrera','contrera@gmail.com');
+console.log(madre); Persona32(nombre ='Laura',apellido ='Contrera',email ='contrera@gmail.com')

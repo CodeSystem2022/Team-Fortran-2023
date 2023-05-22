@@ -62,7 +62,7 @@ console.log(personaArray);
 
 //Número 4: Utilizaremos el método JSON.stringify
 console.log('Distintas formas de imprimir un objeto: forma 4');
-let personaString = JSON.stringify(persona);
+//let personaString = JSON.stringify(persona);
 console.log(personaString);
 console.log('Comenzamos a utilizar el metodo get')
 console.log(persona.nombreEdad);
@@ -85,6 +85,8 @@ console.log(persona.nombreEdad);
 console.log('Comenzamos con el metodo get y set para idiomas');
 persona.lang = 'en';
 console.log(persona.lang);
+
+
 
 function Persona32(nombre = 'Luis ', apellido, email){ //Constructor
     this.nombre = nombre; 
@@ -132,9 +134,12 @@ let miFuncion1 = new function () { }; //Todo despues de new es considerado objet
 let miFuncion2 = function () { }; //Notación simplificada y recomendada 
 
 //Uso de prototype 
-Persona3.prototype.telefono = '12345678';
+Persona3.prototype.telefono = '123456789';
 console.log(papa);
-console.log()
+console.log(mama.telefono);
+mama.telefono = '45687235652'; //Modificamos 
+console.log(mama.telefono);
+
 // uso de call
 let persona4 = {
     nombre: 'Juan',

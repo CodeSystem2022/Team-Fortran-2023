@@ -8,7 +8,19 @@ class Persona{
         return this._nombre;
     }
 }
-
+//Herencia parte 1
+class Empleado extends Persona{// clase hija
+    constructor(departamento){
+        this._departamento = departamento;
+    }
+    get departamento(){
+        return this._departamento;
+    }
+    set departamento(departamento){
+        this._departamento=departamento;
+      
+    }
+}
 let persona1 = new Persona('Martpin', 'Perez');
 console.log(persona1.nombre);
 let persona2 = new Persona('Carlos', 'Lara');

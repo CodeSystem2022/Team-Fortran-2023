@@ -18,6 +18,7 @@ class Empleado extends Persona{// clase hija
     }
     set departamento(departamento){
         this._departamento=departamento;
+      
     }
 }
 let persona1 = new Persona('Martpin', 'Perez');

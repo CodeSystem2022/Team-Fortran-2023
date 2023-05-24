@@ -21,7 +21,7 @@ class Empleado extends Persona{// clase hija
       
     }
 }
-let persona1 = new Persona('Martpin', 'Perez');
+let persona1 = new Persona('Martpin', 'Rodriguez');
 console.log(persona1.nombre);
 let persona2 = new Persona('Carlos', 'Lara');
 console.log(persona2.nombre);

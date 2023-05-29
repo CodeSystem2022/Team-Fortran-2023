@@ -13,7 +13,7 @@ class Persona{
     set nombre(nombre){
         this._nombre = nombre;
     }
-//Clase 6- Get y Setter-parte 2-Matias Pe?a
+//Clase 6- Get y Setter-parte 2-Matias Peña
     get apellido(){
         return this._apellido;
     }

@@ -9,6 +9,7 @@ class Persona{
     get nombre(){
         return this._nombre;
     }
+<<<<<<< HEAD
 
     set nombre(nombre){
         this._nombre = nombre;
@@ -21,7 +22,29 @@ class Persona{
     set apellido(apellido){
         this._apellido = apellido;
     }
+=======
+      //Clase 6 -Matias Peña-Get y Setter parte 2
+    get apellido(){
+        return this._apellido;
+    }
+    set apellido(apellido){
+        this.apellido = apellido;
+    }
+
+>>>>>>> b9ee3e6dbbaffe2f13e71d1c5b329d662990b1ee
 }
+let persona1 = new Persona('Martin', 'Perez');
+console.log(persona1.nombre);
+persona1.nombre = 'Juan Carlos';
+console.log(persona1.nombre);
+console.log(persona1.apellido);
+//console.log(persona1);
+let persona2 = new Persona('Carlos','Lara');
+persona2.nombre = 'Maria Laura';
+console.log(persona2.nombre);
+console.log(persona2.apellido)
+//console.log(persona2);
+
 //Herencia parte 1
 class Empleado extends Persona{// clase hija
     constructor(nombre, apellido, departamento){
@@ -43,6 +66,7 @@ console.log(persona1.nomnbre);
 //console.log(persona1);
 let persona2 = new Persona('Carlos', 'Lara');
 console.log(persona2.nombre);
+<<<<<<< HEAD
 persona2.nombre = 'María Laura';
 console.log(persona2.nombre);
 //console.log(persona2);
@@ -51,3 +75,5 @@ console.log(persona2.nombre);
 let empleado1 = new Empleado('Maria', 'Gimenez', 'Sistemas');
 console.log(empleado1);
 console.log(empleado1.nombre);
+=======
+>>>>>>> b9ee3e6dbbaffe2f13e71d1c5b329d662990b1ee

@@ -1,3 +1,4 @@
+
 let x= 10; //variable de tipo primitiva
 console.log(x.length);
 console.log('Tipos primitivos');
@@ -78,7 +79,7 @@ console.log(padre);
 // EJercicio 5.3 Agregar metodos al constructor del objeto
 //Matias Peña
 console.log('Distintas formas de imprimir un objeto: forma 4');
-let personaString = JSON.stringify(persona);
+//let personaString = JSON.stringify(persona);
 console.log(personaString);
 console.log('Comenzamos a utilizar el metodo get')
 console.log(persona.nombreEdad);
@@ -93,6 +94,8 @@ function Persona32(nombre = 'Luis ', apellido, email){ //Constructor
 }
 let papa = new Persona32('Leo', 'Alvarez','alvarez@gmail.com');
 papa.nombre = 'Luisito';
+papa.telefono = '12345678';
+console.log(papa.telefono);
 console.log(papa); Persona3(nombre = 'Luis ', apellido='Lopez', email='lopez@gmail.com')
 
 let madre = new Persona32('Laura','Contrera','contrera@gmail.com');
@@ -129,6 +132,13 @@ let miArreglo2 = [];
 let miFuncion1 = new function () { }; //Todo despues de new es considerado objeto
 //caso funcion 2
 let miFuncion2 = function () { }; //Notación simplificada y recomendada 
+
+//Uso del prototype 
+Persona3.prototype.telefono = '1234567895';
+console.log(padre);
+console.log(madre.telefono);
+madre.telefono = '25846388952';
+console.log(madre.telefono);
 
 // uso de call
 let persona4 = {

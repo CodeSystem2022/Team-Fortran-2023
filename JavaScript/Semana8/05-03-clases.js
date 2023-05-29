@@ -24,7 +24,8 @@ class Persona{
 }
 //Herencia parte 1
 class Empleado extends Persona{// clase hija
-    constructor(departamento){
+    constructor(nombre, apellido, departamento){
+        super(nombre, apellido);
         this._departamento = departamento;
     }
     get departamento(){
@@ -39,3 +40,7 @@ let persona1 = new Persona('Martin', 'Perez');
 console.log(persona1.nombre);
 let persona2 = new Persona('Carlos', 'Lara');
 console.log(persona2.nombre);
+
+let empleado1 = new Empleado('Maria', 'Gimenez', 'Sistemas');
+console.log(empleado1);
+console.log(empleado1.nombre);

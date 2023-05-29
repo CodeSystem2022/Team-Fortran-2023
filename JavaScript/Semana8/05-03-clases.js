@@ -5,7 +5,7 @@ class Persona{
         this.nombre = nombre;
         this.apellido = apellido;
     }
-    //
+    
     get nombre(){
         return this._nombre;
     }

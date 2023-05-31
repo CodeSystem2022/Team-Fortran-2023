@@ -801,3 +801,5 @@ nbdist/
 hs_err_pid*
 replay_pid*
 PYTHON/Registros_con_Postgresql_y_Python/.idea/workspace.xml
+.idea
+

@@ -71,5 +71,5 @@ Este cuadro muestra la asignación de los miembros del equipo a la función de S
 | [Peña Matías Nicolas](https://avatars.githubusercontent.com/u/112669826?s=64&v=4) |  [6ta semana](https://github.com/orgs/CodeSystem2022/projects/342)  | [Registros con Postgresql y Python](https://github.com/CodeSystem2022/Team-Fortran-2023/wiki/Registros-con-Postgresql-y-Python) |Python |  |
 | [Calisaya Fernando Daniel](https://github.com/califerdan) | [7ma semana](https://github.com/orgs/CodeSystem2022/projects/422) | [Objetos parte 2](https://github.com/CodeSystem2022/Team-Fortran-2023/wiki/Objetos-parte-2) | JavaScript |  |
 | [Pereyra Facundo Ezequiel](https://github.com/facundoPereyra07) |  8va semana  | | |  |
-| [Morales Gastón](https://avatars.githubusercontent.com/u/100379618?s=64&v=4) | [9na semana](https://github.com/orgs/CodeSystem2022/projects/643/views/1) | [Capa de Datos: Logging y Postgresql Parte 2](https://github.com/CodeSystem2022/Team-Fortran-2023/wiki/Capa-de-Datos:-Logging-y-Postgresql-Parte-2)| |  |
+| [Morales Gastón](https://avatars.githubusercontent.com/u/100379618?s=64&v=4) | [9na semana](https://github.com/orgs/CodeSystem2022/projects/643/views/1) | [Capa de Datos: Logging y Postgresql Parte 2](https://github.com/CodeSystem2022/Team-Fortran-2023/wiki/Capa-de-Datos:-Logging-y-Postgresql-Parte-2)| Python |  |
 

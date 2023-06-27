@@ -28,10 +28,33 @@ class Producto{
 
     toString(){ //Template Literals: Nos permite insertar codigo dinamicamente
         return 'idProducto : ${this._idProducto}, nombre: ${this._nombre}, precio: $${this._precio}';
-
     }
+
 }//Fin de la clase Producto
 
+class Orden{
+  static contadorOrdenes = 0;
+  static getMAX_PRODUCTOS(){
+    return 5;
+  } 
+  constructor(){
+    this._idOrden = ++Orden.contadorOrdenes;
+    this._productos = [];
+    this._contadorProductosAgregados = 0; 
+  }
+  get idOrden(){
+    return this._idOrden;
+  }
+  agregarProducto(producto){
+    if(this._productos.length < Orden.getMAX_PRODUCTOS()){
+      this._productos.push(producto);
+      // this._productos[this._contadorProductosAgregados++] = producto;
+    }
+    else{
+      console.log('No se pueden agregar mas productos');
+    }
+  }//Fin del metodo agregar producto
+}//Fin de la clase Orden
 class Orden{
     static contadorOrdenes = 0;
     static getMAX_PRODUCTOS(){

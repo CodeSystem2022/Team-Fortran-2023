@@ -70,15 +70,10 @@ Este cuadro muestra la asignación de los miembros del equipo a la función de S
 | [Morales Castro Danisa](https://github.com/danisa-morales) |  [5ta semana](https://github.com/orgs/CodeSystem2022/projects/282)  | [Sobreescritura](https://github.com/CodeSystem2022/Team-Fortran-2023/wiki/Sobreescritura) | Java | 
 | [Peña Matías Nicolas](https://avatars.githubusercontent.com/u/112669826?s=64&v=4) |  [6ta semana](https://github.com/orgs/CodeSystem2022/projects/342)  | [Registros con Postgresql y Python](https://github.com/CodeSystem2022/Team-Fortran-2023/wiki/Registros-con-Postgresql-y-Python) |Python |  |
 | [Calisaya Fernando Daniel](https://github.com/califerdan) | [7ma semana](https://github.com/orgs/CodeSystem2022/projects/422) | [Objetos parte 2](https://github.com/CodeSystem2022/Team-Fortran-2023/wiki/Objetos-parte-2) | JavaScript |  |
-| [Pereyra Facundo Ezequiel](https://github.com/facundoPereyra07) |  8va semana  | | |  |
+| [Pereyra Facundo Ezequiel](https://github.com/facundoPereyra07) |  [8va semana](https://github.com/orgs/CodeSystem2022/projects/502) | [Clases](https://github.com/CodeSystem2022/Team-Fortran-2023/wiki/Clases) | Javascript |  |
 | [Morales Gastón](https://avatars.githubusercontent.com/u/100379618?s=64&v=4) | [9na semana](https://github.com/orgs/CodeSystem2022/projects/643/views/1) | [Capa de Datos: Logging y Postgresql Parte 2](https://github.com/CodeSystem2022/Team-Fortran-2023/wiki/Capa-de-Datos:-Logging-y-Postgresql-Parte-2)| Python |  |
 | [Hidalgo Gabriel](https://github.com/HidoGG) | [10ma semana](https://github.com/orgs/CodeSystem2022/projects/809/views/1) | [Excepciones](https://github.com/CodeSystem2022/Team-Fortran-2023/wiki/Excepciones-en-Java) | Java |  |
 | [Vizcaino Gisela Carina](https://avatars.githubusercontent.com/u/111472242?s=64&v=4) | 11ma semana |  |  |  |
-| [Ruiz Paola Del Valle](https://github.com/pao2134) | 12ma semana |  |  |  |
-| [Vizcaino Lucas Ezequiel](https://avatars.githubusercontent.com/u/112833803?s=64&v=4) | 13ra semana |  |  |  |
-| [Morales Castro Danisa](https://github.com/danisa-morales) | 14ta semana |  |  |  |
-| [Peña Matías Nicolas](https://avatars.githubusercontent.com/u/112669826?s=64&v=4) | 15ta semana |  |  |  |
-| [Calisaya Fernando Daniel](https://github.com/califerdan) | 16ta semana |  |  |  |
-| [Pereyra Facundo Ezequiel](https://github.com/facundoPereyra07) | 17ma semana | | |  |
-| [Morales Gastón](https://avatars.githubusercontent.com/u/100379618?s=64&v=4) | 18va semana |  |  |  |
+| [Calisaya Fernando Daniel](https://github.com/califerdan) | [12ma semana](https://github.com/orgs/CodeSystem2022/projects/1103/views/1) | Completando clases | Python-JavaScript-Java |  |
+
 

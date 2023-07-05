@@ -33,7 +33,7 @@ public class MundoPc {
         
         //Mostramos la orden
         orden1.mostrarOrden();
-        Orden2.mostrarOrden();
+         orden1.mostrarOrden();
 
     }
 }

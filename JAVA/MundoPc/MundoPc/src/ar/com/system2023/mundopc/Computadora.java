@@ -29,6 +29,8 @@ public class Computadora {
         return idComputadora;
     }
     
+
+    
     public String getNombre() {
         return nombre;
     }

@@ -92,5 +92,8 @@ class Orden{
             productosOrden += '\n{'+producto.toString()+' }';
         } //fin del ciclo For
         console.log(`Orden: ${this._idOrden}, Total:$${this.clacularTotal()}, Productos: ${productosOrden}`);
-    }//Fin metodo mostrarOrden   
+    }//Fin metodo mostrarOrden  
+    
     }//Fin de la clase Orden
+
+
